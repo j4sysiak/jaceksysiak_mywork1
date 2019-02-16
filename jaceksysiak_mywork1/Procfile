@@ -1,0 +1,1 @@
+web: java -jar target/jaceksysiak_mywork-1-1.0.jar
