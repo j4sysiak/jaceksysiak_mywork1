@@ -1,7 +1,5 @@
 package pl.jaceksysiak;
 
-
-
 import org.owasp.html.HtmlPolicyBuilder;
 import org.owasp.html.PolicyFactory;
 import org.springframework.boot.SpringApplication;
